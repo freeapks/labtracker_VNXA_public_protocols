@@ -14,6 +14,30 @@
             "type": "text"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "hello ji",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "ok",
+            "type": "text"
+          }
+        ]
       }
     ]
   }
