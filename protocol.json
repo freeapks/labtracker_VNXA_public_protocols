@@ -38,6 +38,18 @@
             "type": "text"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "pro level",
+            "type": "text"
+          }
+        ]
       }
     ]
   }
